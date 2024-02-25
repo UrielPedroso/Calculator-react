@@ -1,3 +1,9 @@
+# Projeto Calculadora 
+
+## Projeto feito com react
+
+neste projeto feito como estudo de caso sobre react e node.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
